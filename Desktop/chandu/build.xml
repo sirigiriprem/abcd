@@ -1,0 +1,7 @@
+<project name="flipkart" default="compile">
+	<target name="compile">
+		<echo message ="hello welcome"/>
+
+	</target>
+
+</project>
